@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuniXz, i'm brazilian and i'm on my first steps in the programming world.
-- 👀 I’m interested in learning coding and improve it.
+- 👀 I’m interested in learning coding and improving it.
 - 🌱 I’m currently learning Web languages (Html, CSS and JS)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
