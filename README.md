@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding and improving it.
 - 🌱 I’m currently learning Web languages (Html, CSS and JS)
 - 💞️ I’m looking to collaborate on projects, and i'd like to change the world.
-- 📫 How to reach me: Just send me a message to me or send me an email.
+- 📫 How to reach me: My email: kabombr@gmail.com
 
 <!---
 LuniXz/LuniXz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
